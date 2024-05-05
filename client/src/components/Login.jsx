@@ -61,7 +61,7 @@ const Login = ({ setIsLogin }) => {
           size="medium"
           type="submit"
         >
-          Login
+          Log in
         </Button>
         <Box
           sx={{
